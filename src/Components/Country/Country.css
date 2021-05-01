@@ -1,0 +1,27 @@
+.country-component{
+    /* display: block; */
+    display: flex;
+    background-color: blue;
+    margin: 0 auto;
+    margin-bottom: 10px;
+
+    border: 3px solid black;
+    color:white;
+    width: 800px;
+    /* text-align: center; */
+   
+}
+.flag img{
+    margin-right: 50px;
+    width: 330px;
+    /* height: 50px; */
+}
+.btn button{
+background-color: black;
+font-size: 40px;
+cursor: pointer;
+
+}
+.btn h2{
+    background-color:yellow;
+}
